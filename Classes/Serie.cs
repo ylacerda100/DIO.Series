@@ -27,6 +27,7 @@ namespace DIO.Series
             retorno += $"Título: {this.Titulo}\n";
             retorno += $"Descrição: {this.Descricao}\n";
             retorno += $"Ano de Lançamento: {this.Ano}\n";
+            retorno += $"Excluído: {this.Excluido}";
             return retorno;
         }
 
