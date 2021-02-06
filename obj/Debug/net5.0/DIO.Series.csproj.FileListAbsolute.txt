@@ -1,0 +1,16 @@
+/home/ygor/Documents/DIO - Projetos/CRUD_Series/DIO.Series/bin/Debug/net5.0/DIO.Series
+/home/ygor/Documents/DIO - Projetos/CRUD_Series/DIO.Series/bin/Debug/net5.0/DIO.Series.deps.json
+/home/ygor/Documents/DIO - Projetos/CRUD_Series/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.json
+/home/ygor/Documents/DIO - Projetos/CRUD_Series/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.dev.json
+/home/ygor/Documents/DIO - Projetos/CRUD_Series/DIO.Series/bin/Debug/net5.0/DIO.Series.dll
+/home/ygor/Documents/DIO - Projetos/CRUD_Series/DIO.Series/bin/Debug/net5.0/ref/DIO.Series.dll
+/home/ygor/Documents/DIO - Projetos/CRUD_Series/DIO.Series/bin/Debug/net5.0/DIO.Series.pdb
+/home/ygor/Documents/DIO - Projetos/CRUD_Series/DIO.Series/obj/Debug/net5.0/DIO.Series.csprojAssemblyReference.cache
+/home/ygor/Documents/DIO - Projetos/CRUD_Series/DIO.Series/obj/Debug/net5.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/ygor/Documents/DIO - Projetos/CRUD_Series/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfoInputs.cache
+/home/ygor/Documents/DIO - Projetos/CRUD_Series/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfo.cs
+/home/ygor/Documents/DIO - Projetos/CRUD_Series/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.CoreCompileInputs.cache
+/home/ygor/Documents/DIO - Projetos/CRUD_Series/DIO.Series/obj/Debug/net5.0/DIO.Series.dll
+/home/ygor/Documents/DIO - Projetos/CRUD_Series/DIO.Series/obj/Debug/net5.0/ref/DIO.Series.dll
+/home/ygor/Documents/DIO - Projetos/CRUD_Series/DIO.Series/obj/Debug/net5.0/DIO.Series.pdb
+/home/ygor/Documents/DIO - Projetos/CRUD_Series/DIO.Series/obj/Debug/net5.0/DIO.Series.genruntimeconfig.cache
